@@ -55,10 +55,5 @@ The project uses data from three main tables:
   - Average order value and average gap between orders
 - Identified behavioral flags for potential churn
 
----
 
-## 📌 Tools Used
-
-- **SQL (T-SQL / MySQL / PostgreSQL compatible)**  
-- **DBMS**: Microsoft SQL Server   
 
